@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "type": "Feature", 
+      "properties": {
+        "supersededby": {
+          "woe:id": 23512137, 
+          "woe:placetype": "suburb"
+        }, 
+        "provider": "geoplanet 7.4", 
+        "woe:id": 23576906, 
+        "date_indexed": "2010-06-05T14:10:55Z"
+      }, 
+      "id": 23576906
+    }
+  ]
+}

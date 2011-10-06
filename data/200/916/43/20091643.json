@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "type": "Feature", 
+      "properties": {
+        "supersededby": {
+          "woe:id": 12695929, 
+          "woe:placetype": "localadmin"
+        }, 
+        "provider": "geoplanet 7.4", 
+        "woe:id": 20091643, 
+        "date_indexed": "2010-06-05T10:07:03Z"
+      }, 
+      "id": 20091643
+    }
+  ]
+}

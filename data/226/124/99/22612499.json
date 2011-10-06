@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "type": "Feature", 
+      "properties": {
+        "supersededby": {
+          "woe:id": 20141344, 
+          "woe:placetype": "town"
+        }, 
+        "provider": "geoplanet 7.4", 
+        "woe:id": 22612499, 
+        "date_indexed": "2010-06-05T17:26:25Z"
+      }, 
+      "id": 22612499
+    }
+  ]
+}

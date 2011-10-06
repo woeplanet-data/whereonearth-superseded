@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "type": "Feature", 
+      "properties": {
+        "supersededby": {
+          "woe:id": 12594154, 
+          "woe:placetype": "county"
+        }, 
+        "provider": "geoplanet 7.4", 
+        "woe:id": 55848166, 
+        "date_indexed": "2010-06-05T17:49:22Z"
+      }, 
+      "id": 55848166
+    }
+  ]
+}
